@@ -4,8 +4,10 @@
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
+
     "start": "node js/index.js",
     "server": "node js/index.js"
+    
   },
   "keywords": [
     "portfolio",
