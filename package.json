@@ -4,7 +4,7 @@
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
-    "start": "http-server"
+    "start": "node js/index.js"
   },
   "keywords": [
     "portfolio",
@@ -27,5 +27,9 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "gulp-wait": "0.0.2"
+  },
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
   }
 }
