@@ -4,7 +4,7 @@
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
-    "watch": "gulp watch"
+    "start": "http-server"
   },
   "keywords": [
     "portfolio",
@@ -14,7 +14,6 @@
     "coding",
     "dev"
   ],
-  "start": "node index.html",
   "author": "Ryan Fitzgerald",
   "license": "MIT",
   "devDependencies": {
